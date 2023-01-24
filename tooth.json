@@ -1,0 +1,22 @@
+{
+    "format_version": 1,
+    "tooth": "github.com/Tooth-Hub/<repository name>",
+    "version": "<version>",
+    "dependencies": {},
+    "information": {
+        "name": "<name>",
+        "description": "<description>",
+        "author": "<author>",
+        "license": "<license>",
+        "homepage": "<homepage>"
+    },
+    "placement": [
+        {
+            "source": "<source>",
+            "destination": "<destination>"
+        }
+    ],
+    "possession": [
+        "<possession>"
+    ]
+}
