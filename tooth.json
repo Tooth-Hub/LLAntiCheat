@@ -1,11 +1,11 @@
 {
     "format_version": 1,
     "tooth": "github.com/Tooth-Hub/LLAntiCheat",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "dependencies": {
         "github.com/Tooth-Hub/LiteLoaderBDS": [
             [
-                "2.3.x"
+                "2.4.x"
             ]
         ]
     },
