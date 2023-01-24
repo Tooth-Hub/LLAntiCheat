@@ -1,22 +1,26 @@
 {
     "format_version": 1,
-    "tooth": "github.com/Tooth-Hub/<repository name>",
-    "version": "<version>",
-    "dependencies": {},
+    "tooth": "github.com/Tooth-Hub/LLAntiCheat",
+    "version": "1.0.0",
+    "dependencies": {
+        "github.com/Tooth-Hub/LiteLoaderBDS": [
+            [
+                "2.3.x"
+            ]
+        ]
+    },
     "information": {
-        "name": "<name>",
-        "description": "<description>",
-        "author": "<author>",
-        "license": "<license>",
-        "homepage": "<homepage>"
+        "name": "LLAntiCheat",
+        "description": "Free AntiCheat plugin for LiteLoaderBDS 2",
+        "author": "LiteLDev",
+        "license": "",
+        "homepage": ""
     },
     "placement": [
         {
-            "source": "<source>",
-            "destination": "<destination>"
+            "source": "LLAntiCheat.dll",
+            "destination": "plugins/LLAntiCheat.dll"
         }
     ],
-    "possession": [
-        "<possession>"
-    ]
+    "possession": []
 }
