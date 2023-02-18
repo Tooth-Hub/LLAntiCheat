@@ -54,6 +54,9 @@ lip install github.com/Tooth-Hub/LLAntiCheat@1.3.0
 
 ## Addition
 
+> Do not put this plugin into any integration package directly and redistribute it
+> If you would like to make an integration package, please use Lip tooth and set this plugin as a dependency
+
 In order to ensure the effect, please ensure that the LiteLoaderBDS has not been modified  
 If necessary, you can cooperate with [LLEssentials](https://github.com/LiteLDev/LLEssentials) to hide the seed  
 LLAC will change `correct-player-movement` and `server-authoritative-block-breaking` to `true` by default  
